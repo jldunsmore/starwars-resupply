@@ -2,7 +2,11 @@
 This console application is used to calculate for all SW star ships, to cover a given distance, how many stops for resupply are required.
 
 # Getting Started
-Run the application and a console window will open.
+I created the console application using MS Visual Studio 2019. The StarShipResupply.sln is in the StarshipResupply folder.
+The tests are in the folder StarshipResuppyTests folder and can be run in MS Visual Studio as normal tests there.
+
+Load the solution into MS Visual Studio and it should run the application and a console window will open.
+
 Enter in a positive value of mega lights. You can use 'exit' or 'quit' to leave the application.
 
 # Build and Test
